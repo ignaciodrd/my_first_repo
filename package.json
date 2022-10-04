@@ -8,6 +8,9 @@
   },
   "keywords": [],
   "author": "ignaciodrd",
-  "license": "MIT", 
-  "type": "module"
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.2.10"
+  }
 }
